@@ -1,0 +1,11 @@
+<h1 style="padding-left: 2rem">My Article</h1>
+
+<div style="padding-left: 1rem">
+  <ul>
+  <% @articles.each do |article| %>
+    <li>
+      <a href="<%= article[:article_url] %>"><strong><%= article[:title] %></strong></a> - <%= article[:published_at] %>
+    </li>
+  <% end %>
+  </ul>
+</div>

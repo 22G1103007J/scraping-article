@@ -1,0 +1,22 @@
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+/home/kuwataku/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+checking for fdatasync() in fcntl.h... yes
+checking for whether _GNU_SOURCE is accepted as CPPFLAGS... no
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-7uzqb1 sitelibdir\=./.gem.20240131-6956-7uzqb1 clean
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-7uzqb1 sitelibdir\=./.gem.20240131-6956-7uzqb1
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-7uzqb1 sitelibdir\=./.gem.20240131-6956-7uzqb1 install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240131-6956-7uzqb1/bootsnap
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-7uzqb1 sitelibdir\=./.gem.20240131-6956-7uzqb1 clean

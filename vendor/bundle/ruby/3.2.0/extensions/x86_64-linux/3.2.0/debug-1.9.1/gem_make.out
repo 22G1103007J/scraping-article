@@ -1,0 +1,19 @@
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+/home/kuwataku/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-adbm1f sitelibdir\=./.gem.20240131-6956-adbm1f clean
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-adbm1f sitelibdir\=./.gem.20240131-6956-adbm1f
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-adbm1f sitelibdir\=./.gem.20240131-6956-adbm1f install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240131-6956-adbm1f/debug
+
+current directory: /home/kuwataku/ScrapingArticle/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240131-6956-adbm1f sitelibdir\=./.gem.20240131-6956-adbm1f clean
