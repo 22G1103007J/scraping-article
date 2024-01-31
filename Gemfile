@@ -7,6 +7,8 @@ gem "httparty"
 
 gem "nokogiri"
 
+gem 'webpacker', '~> 5.x'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3"
 
